@@ -90,6 +90,16 @@ newer version. Also note that, as all functionality is loaded into
 memory at startup, the toolbox may take some time to fully initialize
 and launch the GUI.
 
+### Stand-alone toolbox (Windows)
+
+1) First download the [latest installer](https://github.com/precise-simulation/featool-multiphysics/releases/download/1.15.2/FEATool_Multiphysics_installer.exe)
+
+2) Save it to a directory and run the installer. This will first
+install the MATLAB® MCR Runtime, and then the program file.
+
+3) When everything has been installed, run the program file to start
+FEATool. Please be patient as the MCR runtime can take time to start.
+
 ### MATLAB 2012b and later
 
 1) First download the latest [FEATool Multiphysics.mlappinstall](https://github.com/precise-simulation/featool-multiphysics/raw/master/FEATool%20Multiphysics.mlappinstall)
