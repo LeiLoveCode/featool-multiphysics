@@ -79,10 +79,6 @@ installed from the MATLAB® APPS and Add-On Toolbar, or downloaded
 directly from the [Precise Simulation GitHub repository](https://github.com/precise-simulation/featool-multiphysics/releases/latest)
 and installed manually.
 
-<p align="center">
-  <a href="https://github.com/precise-simulation/featool-multiphysics/raw/master/FEATool%20Multiphysics.mlappinstall" target="_blank"><img src="https://raw.githubusercontent.com/precise-simulation/featool-multiphysics/master/featool-multiphysics-download.png" alt="FEATool Multiphysics Download" style="max-width:50%"></a>
-</p>
-
 Please follow the steps below for your matching system to install
 _FEATool_ as a MATLAB toolbox. It is recommended to first [uninstall](https://www.featool.com/doc/quickstart.html#uninstall)
 previous versions of toolboxes before installing/upgrading to a
@@ -92,19 +88,29 @@ and launch the GUI.
 
 ### Stand-alone toolbox (Windows)
 
-1) First download the [latest installer](https://github.com/precise-simulation/featool-multiphysics/releases/download/1.15.2/FEATool_Multiphysics_installer.exe)
+1) First download the _latest installer_
+
+<p align="center">
+  <a href="https://github.com/precise-simulation/featool-multiphysics/releases/download/1.15.2/FEATool_Multiphysics_MCR2021b_installer.exe" target="_blank"><img src="https://raw.githubusercontent.com/precise-simulation/featool-multiphysics/master/featool-multiphysics-download.png" alt="FEATool Multiphysics Download" style="max-width:50%"></a>
+</p>
+
+The default MCR runtime is 2021b which requires 2+ GB to install, alternatively the 2012b runtime is also available which only requires ~400 MB.
 
 2) Save it to a directory and run the installer. This will first
-install the MATLAB® MCR Runtime, and then the program file.
+downlaod and/or install the MATLAB® MCR Runtime, and then the program file.
 
 3) When everything has been installed, run the program file to start
 FEATool. Please be patient as the MCR runtime can take time to start.
 
 ### MATLAB 2012b and later
 
-1) First download the latest [FEATool Multiphysics.mlappinstall](https://github.com/precise-simulation/featool-multiphysics/raw/master/FEATool%20Multiphysics.mlappinstall)
+1) First download the latest _FEATool Multiphysics.mlappinstall_
    toolbox installation file (if you have downloaded a _zip_ archive
    instead, then extract the _mlappinstall_ file from inside it).
+
+<p align="center">
+  <a href="https://github.com/precise-simulation/featool-multiphysics/raw/master/FEATool%20Multiphysics.mlappinstall" target="_blank"><img src="https://raw.githubusercontent.com/precise-simulation/featool-multiphysics/master/featool-multiphysics-download.png" alt="FEATool Multiphysics Download" style="max-width:50%"></a>
+</p>
 
 2) Then start MATLAB, press the **APPS** toolbar button,
    and select the **Install App** button.
