@@ -94,7 +94,9 @@ and launch the GUI.
   <a href="https://github.com/precise-simulation/featool-multiphysics/releases/download/1.15.2/FEATool_Multiphysics_MCR2021b_installer.exe" target="_blank"><img src="https://raw.githubusercontent.com/precise-simulation/featool-multiphysics/master/featool-multiphysics-download.png" alt="FEATool Multiphysics Download" style="max-width:50%"></a>
 </p>
 
-The default MCR runtime is 2021b which requires 2+ GB to install, alternatively the 2012b runtime is also available which only requires ~400 MB.
+Note that rhe default MCR runtime is 2021b which requires 2+ GB to install, 
+alternatively the smaller [2012b runtime is also available](https://github.com/precise-simulation/featool-multiphysics/releases/download/1.15.2/FEATool_Multiphysics_MCR2012b_installer.exe)
+which only requires ~400 MB.
 
 2) Save it to a directory and run the installer. This will first
 downlaod and/or install the MATLAB® MCR Runtime, and then the program file.
