@@ -1,6 +1,8 @@
 FEATool Multiphysics™ - _Physics Simulation Made Easy_
 ======================================================
 
+## **Note! Please DO NOT create additional GitHub forks of this repository, and do not download the software from anywhere but the [official repository or website](https://www.featool.com).**
+
 ![FEATool Multiphysics Screenshot](https://raw.githubusercontent.com/precise-simulation/featool-multiphysics/master/featool-multiphysics-screenshot.png)
 
 About
